@@ -1,0 +1,6 @@
+{
+    "name": "framework-espidf",
+    "description": "ESP-IDF",
+    "version": "4.4.4",
+    "url": "https://github.com/bitfocus/esp-idf"
+}
